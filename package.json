@@ -1,0 +1,21 @@
+{
+  "name": "babel-plugin-react-data-if",
+  "version": "1.0.0",
+  "description": "react自定义指令data-if",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "data-if",
+    "babel",
+    "显示隐藏"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/793338023/babel-plugin-react-data-if.git"
+  },
+  "author": "zhangzhicheng",
+  "license": "ISC"
+}
